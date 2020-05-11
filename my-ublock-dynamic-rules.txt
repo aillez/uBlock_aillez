@@ -1,8 +1,3 @@
-[Adblock Plus 1.1]
-! Title: aillez Adblock list
-! Expires: 30 days (update frequency)
-
-
 no-large-media: behind-the-scene false
 * https://cdn.sa168vip.com media block
 * https://cdn.sa168vip.com/video.mp4 media block

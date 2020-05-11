@@ -1,9 +1,3 @@
-[Adblock Plus 1.1]
-! Title: aillez Adblock list
-! Expires: 30 days (update frequency)
-
-
-
 
 ! 5/15/2018, 10:47:59 AM https://thfilm.net/v-connecting-your-device-over-wifi-to-android-studio-and-wireless-debugging-your-app-jSaxB0b3Zyo.html
 thfilm.net##.k4eAhkIP31U2tH3.awZqOjyK7DMCq7S.qadfMbXPJX1
