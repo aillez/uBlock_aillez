@@ -1,7 +1,7 @@
 ![Adblock Plus 2.0]
 ! Title: aillez static filter
 ! Description: aillez static filter
-! Homepage: http://adguard.com/filters.html#english
+! Homepage: https://github.com/aillez/uBlock_aillez
 
 
 
