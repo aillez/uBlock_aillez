@@ -321,3 +321,7 @@ fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(11)
 fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(10)
 fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(9)
 fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(8)
+
+! 5/14/2020 https://do-usaseries.co
+do-usaseries.co##.mb-3.px-3.container-fluid > .row
+
