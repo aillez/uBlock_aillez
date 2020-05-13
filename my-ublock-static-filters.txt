@@ -4,6 +4,8 @@
 ! Homepage: https://github.com/aillez/uBlock_aillez
 ! Expires: 4 days (update frequency)
 
+!hosts file zone
+
 !gambling block
 ||ssgame66.com
 ||sa168vip.com
@@ -31,8 +33,10 @@
 ||sagame350.com
 ||ufa350.com
 
+!end of hosts file zone.
 
 
+!start of static filter.
 
 ! 5/15/2018, 10:47:59 AM https://thfilm.net/v-connecting-your-device-over-wifi-to-android-studio-and-wireless-debugging-your-app-jSaxB0b3Zyo.html
 thfilm.net##.k4eAhkIP31U2tH3.awZqOjyK7DMCq7S.qadfMbXPJX1
@@ -281,3 +285,39 @@ nungsub.com##a.line-at-button:nth-of-type(1)
 
 ! 5/11/2020 nungsub.com
 ||i.imgur.com/liG49U7.mp4$media
+
+
+! 5/13/2020 https://fanseriesthaisub.com
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(39)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(38)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(37)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(36)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(35)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(34)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(33)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(32)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(31)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(30)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(29)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(27)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(28)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(26)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(25)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(24)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(23)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(22)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(21)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(20)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(19)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(18)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(17)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(16)
+fanseriesthaisub.com###footer-advertise
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(15)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(14)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(13)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(12)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(11)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(10)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(9)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(8)
