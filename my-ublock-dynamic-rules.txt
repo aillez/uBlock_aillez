@@ -2,6 +2,7 @@
 ! Title: aillez dynamic rule
 ! Description: aillez dynamic rule
 ! Homepage: https://github.com/aillez/uBlock_aillez
+! Expires: 4 days (update frequency)
 
 no-large-media: behind-the-scene false
 * https://cdn.sa168vip.com media block
