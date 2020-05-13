@@ -2,6 +2,7 @@
 ! Title: aillez static filter
 ! Description: aillez static filter
 ! Homepage: https://github.com/aillez/uBlock_aillez
+! Expires: 4 days (update frequency)
 
 
 
