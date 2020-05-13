@@ -1,3 +1,10 @@
+![Adblock Plus 2.0]
+! Title: aillez static filter
+! Description: aillez static filter
+! Homepage: http://adguard.com/filters.html#english
+
+
+
 
 ! 5/15/2018, 10:47:59 AM https://thfilm.net/v-connecting-your-device-over-wifi-to-android-studio-and-wireless-debugging-your-app-jSaxB0b3Zyo.html
 thfilm.net##.k4eAhkIP31U2tH3.awZqOjyK7DMCq7S.qadfMbXPJX1
