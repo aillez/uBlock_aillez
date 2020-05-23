@@ -325,3 +325,11 @@ fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(8)
 ! 5/14/2020 https://do-usaseries.co
 do-usaseries.co##.mb-3.px-3.container-fluid > .row
 
+! 5/18/2020 https://seriesok.com
+seriesok.com##.notice
+
+! 5/23/2020 https://dunnung.com
+dunnung.com##.rkads.wrapper.video-content-top-ads
+dunnung.com##.rkads.wrapper.header-menu-bottom-ads
+dunnung.com##.rkads.wrapper.video-content-bottom-ads
+
