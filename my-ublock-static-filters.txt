@@ -38,6 +38,15 @@
 
 !start of static filter.
 
+
+! 6/8/2020 dunnung.com
+||dunplayer.online/ThaimillionWAV2.mp4$media
+||188betthailand.net/wp-content/uploads/2020/02/188BET-Peter-Schmeichel-Video-TH-Final.mp4$media
+
+! 6/8/2020 https://dunnung.com
+dunnung.com###banner-left > div
+dunnung.com###ads_fox_bottom
+
 ! 5/15/2018, 10:47:59 AM https://thfilm.net/v-connecting-your-device-over-wifi-to-android-studio-and-wireless-debugging-your-app-jSaxB0b3Zyo.html
 thfilm.net##.k4eAhkIP31U2tH3.awZqOjyK7DMCq7S.qadfMbXPJX1
 
