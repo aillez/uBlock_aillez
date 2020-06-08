@@ -8,6 +8,18 @@ no-large-media: behind-the-scene false
 * https://cdn.sa168vip.com media block
 * https://cdn.sa168vip.com/video.mp4 media block
 * https://i.imgur.com/liG49U7.mp4 media block
+
+* https://188betthailand.net media block
+* https://188betthailand.net/wp-content/ media block
+* https://188betthailand.net/wp-content/uploads/ media block
+* https://188betthailand.net/wp-content/uploads/2020/ media block
+* https://188betthailand.net/wp-content/uploads/2020/02/ media block
+* https://188betthailand.net/wp-content/uploads/2020/02/188BET-Peter-Schmeichel-Video-TH-Final.mp4 media block
+* https://dunplayer.online/ThaimillionWAV2.mp4 media block
+
+! 6/8/2020 https://dunnung.com
+dunnung.com###banner-left > div
+dunnung.com###ads_fox_bottom
 behind-the-scene * * noop
 behind-the-scene * 1p-script noop
 behind-the-scene * 3p noop
