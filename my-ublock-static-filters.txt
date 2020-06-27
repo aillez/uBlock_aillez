@@ -342,3 +342,6 @@ dunnung.com##.rkads.wrapper.video-content-top-ads
 dunnung.com##.rkads.wrapper.header-menu-bottom-ads
 dunnung.com##.rkads.wrapper.video-content-bottom-ads
 
+! 6/27/2020 https://nungsub.com
+nungsub.com###custom_html-43
+
