@@ -345,3 +345,19 @@ dunnung.com##.rkads.wrapper.video-content-bottom-ads
 ! 6/27/2020 https://nungsub.com
 nungsub.com###custom_html-43
 
+
+! 6/28/2020 https://subseries.co
+subseries.co##div#banner:nth-of-type(1)
+subseries.co##div#banner:nth-of-type(3)
+
+! 6/28/2020 https://www.123-hd.com
+www.123-hd.com###banner_top
+www.123-hd.com###banner_pmid
+www.123-hd.com###banner_plow
+www.123-hd.com###banner_right
+
+! 7/7/2020 https://uhuseries.com
+uhuseries.com###site-header
+uhuseries.com##.code-block-6.code-block
+uhuseries.com##.code-block-8.code-block
+
