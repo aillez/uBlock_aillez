@@ -2,7 +2,7 @@
 ! Title: aillez static filter
 ! Description: aillez static filter
 ! Homepage: https://github.com/aillez/uBlock_aillez
-! Expires: 4 days (update frequency)
+! Expires: 1 days (update frequency)
 
 !hosts file zone
 
@@ -361,3 +361,10 @@ uhuseries.com###site-header
 uhuseries.com##.code-block-6.code-block
 uhuseries.com##.code-block-8.code-block
 
+! 15/7/2563 https://www.i-moviehd.com
+www.i-moviehd.com###banner_top
+www.i-moviehd.com###fix_footer2
+www.i-moviehd.com###banner-left1
+www.i-moviehd.com###banner-left
+www.i-moviehd.com###banner_mid
+www.i-moviehd.com###banner_low
