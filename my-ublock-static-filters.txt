@@ -39,6 +39,30 @@
 !start of static filter.
 
 
+! 2020-08-28 https://movie2ufree.com
+movie2ufree.com##.ad-top > .ad-top-center
+movie2ufree.com##.ad-top-right
+movie2ufree.com##.right-main
+movie2ufree.com##.ad-float
+movie2ufree.com##.left-main > aside.sidebar-banner:nth-of-type(3)
+||movie2ufree.com/wp-content/uploads/2020/03/940x130-Ufa191.gif$image
+||movie2ufree.com/wp-content/uploads/2020/04/2951.gif$image
+||movie2ufree.com/wp-content/uploads/2020/04/S__3948562.gif$image
+movie2ufree.com##div.adb:nth-of-type(4)
+||movie2ufree.com/wp-content/uploads/2020/04/3166.gif$image
+movie2ufree.com##div.adb:nth-of-type(6)
+movie2ufree.com##div.adcen:nth-of-type(7) > div.adb:nth-of-type(1)
+movie2ufree.com##div.adcen:nth-of-type(7) > div.adb:nth-of-type(2)
+movie2ufree.com##.ad-top
+movie2ufree.com##.left-main > aside.sidebar-banner:nth-of-type(1)
+movie2ufree.com##.left-main > aside.sidebar-banner:nth-of-type(9)
+movie2ufree.com##.left-main > aside.sidebar-banner:nth-of-type(6)
+movie2ufree.com##.left-main > aside.sidebar-banner:nth-of-type(8)
+movie2ufree.com##.left-main > aside.sidebar-banner:nth-of-type(7)
+movie2ufree.com##.left-main > aside.sidebar-banner:nth-of-type(5)
+movie2ufree.com##.left-main > aside.sidebar-banner:nth-of-type(4)
+movie2ufree.com##.left-main > aside.sidebar-banner:nth-of-type(2)
+
 ! 6/8/2020 dunnung.com
 ||dunplayer.online/ThaimillionWAV2.mp4$media
 ||188betthailand.net/wp-content/uploads/2020/02/188BET-Peter-Schmeichel-Video-TH-Final.mp4$media
@@ -397,3 +421,5 @@ www.nanamovies.com##[src="https://1.bp.blogspot.com/-Muc8N2ihk0k/XvH__Yjnu_I/AAA
 ||4.bp.blogspot.com/-gCIpuoldl-c/XlePvDxZfMI/AAAAAAAAGrU/z4lYZbZp0KEGW9rD3EpGjxgZOJ5NO7YHwCLcBGAsYHQ/s1600/coin365th.gif$image
 ||4.bp.blogspot.com/-iJoR3AHMym4/XoSIQWMaBqI/AAAAAAAAHis/q-luSdkiddUglR7uzuHW67amxIbKgN03gCLcBGAsYHQ/s1600/fafa191.gif$image
 ||3.bp.blogspot.com/-uBZADrVs0OQ/XifuSUgomqI/AAAAAAAAGjs/JV8D5vhtiwopP8fL57OA4NtTNagc5SCEgCLcBGAsYHQ/s1600/gxy888.gif$image
+
+
