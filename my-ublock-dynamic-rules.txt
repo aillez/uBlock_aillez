@@ -2,7 +2,7 @@
 ! Title: aillez dynamic rule
 ! Description: aillez dynamic rule
 ! Homepage: https://github.com/aillez/uBlock_aillez
-! Expires: 4 days (update frequency)
+! Expires: 1 days (update frequency)
 
 no-large-media: behind-the-scene false
 * https://cdn.sa168vip.com media block
@@ -27,6 +27,7 @@ behind-the-scene * 3p-frame noop
 behind-the-scene * 3p-script noop
 behind-the-scene * image noop
 behind-the-scene * inline-script noop
+
 
 * http://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/slotgame66.mp4 media block
 * https://188betthailand.net media block
