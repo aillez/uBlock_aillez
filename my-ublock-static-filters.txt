@@ -39,6 +39,12 @@
 !start of static filter.
 
 
+! 2020-09-03 https://movie2uhd.com
+movie2uhd.com##.ad
+movie2uhd.com##div.adcen:nth-of-type(3) > .adb
+
+
+
 ! 2020-08-28 https://movie2ufree.com
 movie2ufree.com##.ad-top > .ad-top-center
 movie2ufree.com##.ad-top-right
