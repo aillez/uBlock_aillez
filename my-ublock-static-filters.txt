@@ -429,3 +429,20 @@ www.nanamovies.com##[src="https://1.bp.blogspot.com/-Muc8N2ihk0k/XvH__Yjnu_I/AAA
 ||3.bp.blogspot.com/-uBZADrVs0OQ/XifuSUgomqI/AAAAAAAAGjs/JV8D5vhtiwopP8fL57OA4NtTNagc5SCEgCLcBGAsYHQ/s1600/gxy888.gif$image
 
 
+! 1/21/2019, 7:18:07 PM https://utaseries.com/series-online/dynasty-season-2/
+utaseries.com##.custom-html-widget.textwidget > center
+
+! 1/21/2019, 7:18:39 PM https://superseriesthai.com/542
+superseriesthai.com##.movie-container.container > div.row:nth-of-type(1) > .col-12
+
+! 1/21/2019, 7:18:56 PM https://superseriesthai.com/542
+superseriesthai.com###misa-content > .row > .col-lg-12
+
+! 2021-03-07 https://www.123-hd.com
+www.123-hd.com###banner_top
+www.123-hd.com###banner_right
+
+! 2021-03-15 https://subseries.co
+subseries.co##div#banner:nth-of-type(1)
+subseries.co##.slide.content > div#banner
+
