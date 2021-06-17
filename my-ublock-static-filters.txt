@@ -446,3 +446,10 @@ www.123-hd.com###banner_right
 subseries.co##div#banner:nth-of-type(1)
 subseries.co##.slide.content > div#banner
 
+
+! 2021-06-17 https://nungfree.tv
+nungfree.tv##.col-lg-8.col-12 > .ads.row
+||nungfree.tv/images/banners/*.gif$image
+
+
+
