@@ -452,4 +452,13 @@ nungfree.tv##.col-lg-8.col-12 > .ads.row
 ||nungfree.tv/images/banners/*.gif$image
 
 
+! 2021-06-17 https://movie222hd.com
+movie222hd.com###ads-box
+movie222hd.com##.col-xs-12 > .img-banner-left-top
+movie222hd.com##[href="https://www.axygames.com/"] > .img-banner-right-top
+||movie222hd.com/wp-content/uploads/*.gif$image
+movie222hd.com##.col-xs-12.col-lg-8.col-xl-9 > div.mb-1.col-xs-12 > div
+movie222hd.com##div.mt-1.col-xs-12 > div
+
+
 
