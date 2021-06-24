@@ -461,4 +461,9 @@ movie222hd.com##.col-xs-12.col-lg-8.col-xl-9 > div.mb-1.col-xs-12 > div
 movie222hd.com##div.mt-1.col-xs-12 > div
 
 
+! 2021-06-24 https://xn--72czbawn3i1b1dydua6cl3b.com
+xn--72czbawn3i1b1dydua6cl3b.com##.b-ads
+xn--72czbawn3i1b1dydua6cl3b.com##.ads-banners
+xn--72czbawn3i1b1dydua6cl3b.com###ads-close > [href="#"]
+
 
