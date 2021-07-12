@@ -467,3 +467,11 @@ xn--72czbawn3i1b1dydua6cl3b.com##.ads-banners
 xn--72czbawn3i1b1dydua6cl3b.com###ads-close > [href="#"]
 
 
+
+! 2021-07-12 https://subserieshd.com
+subserieshd.com##div#banner:nth-of-type(1)
+subserieshd.com##div#banner:nth-of-type(3)
+subserieshd.com##div#banner:nth-of-type(2)
+
+
+
