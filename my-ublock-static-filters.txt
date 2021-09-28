@@ -482,4 +482,23 @@ mawtoload.com##.code-block-5.code-block
 mawtoload.com##.code-block-7.code-block
 
 
+! 2021-08-05 https://subserieshd.com
+||subserieshd.com/banner/**.gif$image
+
+! 2021-09-17 https://www7.nungsub.com
+||www7.nungsub.com/wp-content/uploads/2021/07/line_300.gif$image
+
+! 2021-09-23 https://www.nanamovies.me
+www.nanamovies.me##.size-large.alignnone
+
+! 2021-09-25 http://www.mini1up.com
+www.mini1up.com###outer-wrapper > .separator > [href] > [src]
+www.mini1up.com##.widget-content > .separator > [href] > [src]
+
+! 2021-09-28 https://nunghub.com
+nunghub.com##.code-block-1.code-block > [href] > .lazyloaded
+nunghub.com##.code-block-5.code-block > [href] > .lazyloaded
+nunghub.com##.code-block-6.code-block > [href] > .lazyloaded
+
+
 
