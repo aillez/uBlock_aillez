@@ -503,3 +503,8 @@ nunghub.com##.code-block-3.code-block > [href] > .lazyloaded
 nunghub.com##.code-block-2.code-block > [href] > .lazyloaded
 nunghub.com##.code-block-4.code-block > [href] > .lazyloaded
 
+
+! 2021-10-02 https://tvallseries.com
+tvallseries.com##.module_single_ads > [href] > [src]
+tvallseries.com###custom_html-5 > .custom-html-widget.textwidget > [href] > [src]
+tvallseries.com###custom_html-7 > .custom-html-widget.textwidget > [href] > [src]
