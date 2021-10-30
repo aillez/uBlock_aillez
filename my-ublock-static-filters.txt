@@ -39,6 +39,15 @@
 !start of static filter.
 
 
+! 2021-10-30 https://www.nung2hdd.com
+www.nung2hdd.com##div.rIdV-top > [href] > [src]
+www.nung2hdd.com##.rIdV-top-end > [href] > [src]
+www.nung2hdd.com##.rIdV-mid-end > [href] > [src]
+www.nung2hdd.com##.rIdV-inpost > [href] > [src]
+
+
+
+
 ! 2020-09-03 https://movie2uhd.com
 movie2uhd.com##.ad
 movie2uhd.com##div.adcen:nth-of-type(3) > .adb
