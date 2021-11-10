@@ -39,6 +39,19 @@
 !start of static filter.
 
 
+
+! 2021-11-06 https://www.movie678.com
+www.movie678.com##.banner-side-img
+www.movie678.com##div.box > [href] > [src]
+www.movie678.com###show_ads_c1 [href] > [src]
+www.movie678.com##.notice
+
+! 2021-11-10 https://nung2uhd.com
+nung2uhd.com##.widget_media_image.widget
+nung2uhd.com##.adcen
+
+
+
 ! 2021-10-30 https://www.nung2hdd.com
 www.nung2hdd.com##div.rIdV-top > [href] > [src]
 www.nung2hdd.com##.rIdV-top-end > [href] > [src]
