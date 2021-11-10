@@ -52,3 +52,113 @@ behind-the-scene * image noop
 behind-the-scene * inline-script noop
 movie2ufree.com https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/lotto77.mp4 media block
 
+
+
+
+
+
+List of your dynamic filtering rules. 
+
+Permanent rules
+
+ 
+ 
+Temporary rules
+
+ 
+ 
+ 
+ 
+Sort:
+ 
+Rule type
+ 
+1
+no-large-media: behind-the-scene false
+2
+behind-the-scene * * noop
+3
+behind-the-scene * 1p-script noop
+4
+behind-the-scene * 3p noop
+5
+behind-the-scene * 3p-frame noop
+6
+behind-the-scene * 3p-script noop
+7
+behind-the-scene * image noop
+8
+behind-the-scene * inline-script noop
+9
+* https://188betthailand.net media block
+10
+* https://188betthailand.net/wp-content/ media block
+11
+* https://188betthailand.net/wp-content/uploads/ media block
+12
+* https://188betthailand.net/wp-content/uploads/2020/ media block
+13
+* https://188betthailand.net/wp-content/uploads/2020/02/ media block
+14
+* https://188betthailand.net/wp-content/uploads/2020/02/188BET-Peter-Schmeichel-Video-TH-Final.mp4 media block
+15
+* https://dunplayer.online/ThaimillionWAV2.mp4 media block
+16
+* https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/ media block
+17
+* https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/juad88.mp4 media block
+18
+* https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/lotto77.mp4 media block
+19
+* http://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/slotgame66.mp4 media block
+20
+* https://www.vdoad3.online media block
+21
+* https://www.vdoad3.online/vdo/ media block
+22
+* https://www.vdoad3.online/vdo/dubai1.mp4 media block
+23
+movie222hd.com https://baner.msa-video.com media block
+24
+movie2ufree.com https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/lotto77.mp4 media block
+25
+nung2uhd.com https://moviefree365.com/clips/ media block
+26
+www7.nungsub.com https://ufaexpert.com media block
+27
+techssting.com https://tmp.dropgalaxy.in/adddds.js script block
+28
+techssting.com https://tmp.dropgalaxy.in/adspopup.js script block
+29
+​
+no-large-media: behind-the-scene false
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+* https://188betthailand.net media block
+* https://188betthailand.net/wp-content/ media block
+* https://188betthailand.net/wp-content/uploads/ media block
+* https://188betthailand.net/wp-content/uploads/2020/ media block
+* https://188betthailand.net/wp-content/uploads/2020/02/ media block
+* https://188betthailand.net/wp-content/uploads/2020/02/188BET-Peter-Schmeichel-Video-TH-Final.mp4 media block
+* https://dunplayer.online/ThaimillionWAV2.mp4 media block
+* https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/ media block
+* https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/juad88.mp4 media block
+* https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/lotto77.mp4 media block
+* http://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/slotgame66.mp4 media block
+* https://www.vdoad3.online media block
+* https://www.vdoad3.online/vdo/ media block
+* https://www.vdoad3.online/vdo/dubai1.mp4 media block
+movie222hd.com https://baner.msa-video.com media block
+movie2ufree.com https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/lotto77.mp4 media block
+nung2uhd.com https://moviefree365.com/clips/ media block
+www7.nungsub.com https://ufaexpert.com media block
+techssting.com https://tmp.dropgalaxy.in/adddds.js script block
+techssting.com https://tmp.dropgalaxy.in/adspopup.js script block
+​
+
+
