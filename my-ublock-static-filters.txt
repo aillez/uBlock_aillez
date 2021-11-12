@@ -40,6 +40,21 @@
 
 
 
+! 2021-11-12 https://movie007hd.com
+movie007hd.com##.lazyloaded.entered.banner-bottom
+movie007hd.com##.col-xs-12 > .img-banner-left-top
+movie007hd.com###divAdLeft
+movie007hd.com##.tdC > [href] > .lazyloaded.entered
+movie007hd.com###ads-box
+movie007hd.com##.lazyloaded.entered.img-banner-center-bottom
+movie007hd.com##.lazyloaded.entered.img-banner-right
+movie007hd.com###divAdRight > .lazyloaded.entered
+movie007hd.com###divAdCenterBottom > .lazyloaded.entered
+movie007hd.com##.lazyloaded.entered.img-banner-right-top
+
+
+
+
 ! 2021-11-06 https://www.movie678.com
 www.movie678.com##.banner-side-img
 www.movie678.com##div.box > [href] > [src]
