@@ -39,6 +39,9 @@
 !start of static filter.
 
 
+! 2022-06-29 https://hee18xxx.com
+hee18xxx.com##.header-ad-mobile > [href] > [src]
+hee18xxx.com##.under-player-ad-mobile
 
 ! 2021-11-12 https://movie007hd.com
 movie007hd.com##.lazyloaded.entered.banner-bottom
