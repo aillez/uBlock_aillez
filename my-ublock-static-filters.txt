@@ -548,3 +548,60 @@ nunghub.com##.code-block-4.code-block > [href] > .lazyloaded
 tvallseries.com##.module_single_ads > [href] > [src]
 tvallseries.com###custom_html-5 > .custom-html-widget.textwidget > [href] > [src]
 tvallseries.com###custom_html-7 > .custom-html-widget.textwidget > [href] > [src]
+
+
+! 5/11/2020 nungsub.com
+||i.imgur.com/liG49U7.mp4$media
+
+! 5/13/2020 https://fanseriesthaisub.com
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(39)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(38)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(37)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(36)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(35)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(34)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(33)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(32)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(31)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(30)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(29)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(27)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(28)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(26)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(25)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(24)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(23)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(22)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(21)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(20)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(19)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(18)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(17)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(16)
+fanseriesthaisub.com###footer-advertise
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(15)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(14)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(13)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(12)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(11)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(10)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(9)
+fanseriesthaisub.com##div.justify-content-center.row:nth-of-type(8)
+
+! 2022-06-01 https://www.aetna.co.th
+@@||cdn-apac.onetrust.com/scripttemplates/otSDKStub.js$script,domain=www.aetna.co.th
+@@||cdn-apac.onetrust.com/consent/39fe5412-3a4f-4a77-baba-938fd8449b05/39fe5412-3a4f-4a77-baba-938fd8449b05.json$xhr,domain=www.aetna.co.th
+@@||cdn-apac.onetrust.com/scripttemplates/6.36.0/otBannerSdk.js$script,domain=www.aetna.co.th
+@@||cdn-apac.onetrust.com/consent/39fe5412-3a4f-4a77-baba-938fd8449b05/a9f32fba-4256-4362-9535-982470019ca6/th.json$xhr,domain=www.aetna.co.th
+www.lotussmoney.com#@##cookieModal
+www.lotussmoney.com#@#.cookie-footer
+www.lotussmoney.com#@##cookieSetting
+www.firstchoice.co.th#@##cookieModal
+www.firstchoice.co.th#@#.cookie-footer
+www.firstchoice.co.th#@##cookieSetting
+www.firstchoice.co.th#@#.footer-social
+www.firstchoice.co.th#@#.social-link
+
+! 2022-08-10 https://www.krungsricard.com
+www.krungsricard.com#@#.hwc-pdpa
+www.krungsricard.com#@#.in.fade.modal.cookieSettingModal
