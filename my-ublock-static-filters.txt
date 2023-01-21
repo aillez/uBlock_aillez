@@ -605,3 +605,23 @@ www.firstchoice.co.th#@#.social-link
 ! 2022-08-10 https://www.krungsricard.com
 www.krungsricard.com#@#.hwc-pdpa
 www.krungsricard.com#@#.in.fade.modal.cookieSettingModal
+
+
+! 20220222-11-12 https://trakt.tv
+trakt.tv###e1a979-b6d540-a386ef-b8aedf
+trakt.tv##div#e1a979-b6d540-b8aedf-wrapper:nth-of-type(7)
+trakt.tv##div#e1a979-b6d540-b8aedf-wrapper:nth-of-type(10)
+trakt.tv##div#e1a979-b6d540-b8aedf-wrapper:nth-of-type(13)
+
+! 2022-12-11 https://subserieshd.com
+subserieshd.com###ads [href] > [src]
+
+! 2022-12-22 https://movie2uhd.com
+movie2uhd.com##.movie > aside.adcen
+movie2uhd.com##div.adcen:nth-of-type(2)
+movie2uhd.com##div.adcen:nth-of-type(4)
+movie2uhd.com##div.adhl:nth-of-type(5)
+
+! 2023-01-21 https://dunnung.com
+dunnung.com##.tabs.single-content
+
