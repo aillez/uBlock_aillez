@@ -631,3 +631,15 @@ dunnung.com##.tabs.single-content
 
 
 
+!-03-13 dropgalaxy
+
+@@||adservice.google.*/adsid/integrator.js$script,domain=dropgalaxy.*|techssting.com
+
+@@||techssting.com^$ghide
+
+! 2023-06-16 https://www.overmovies.com
+www.overmovies.com##.module_single_ads
+
+
+
+
