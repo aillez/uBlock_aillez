@@ -641,5 +641,22 @@ dunnung.com##.tabs.single-content
 www.overmovies.com##.module_single_ads
 
 
+! 2023-11-26 https://www.siambit.me
+www.siambit.me##[src="https://www.siambit.me/pic/Vidos-Gif1-02.gif"]
+www.siambit.me##[href="https://www.55amb.io"]
+
+! 2023-12-03 https://www.siambit.me
+www.siambit.me##[href="https://55xo.io"]
+www.siambit.me##.outer [href="https://55amb.io"]
+
+! 2023-12-05 https://trakt.tv
+trakt.tv##.add-bottom
+trakt.tv###af1a979-cc6d540-eg119443-jc8aedf
+trakt.tv###af1a979-cc6d540-hca41b9-jc8aedf
+trakt.tv###af1a979-cc6d540-eg11944-jc8aedf
+
+
+
+
 
 
